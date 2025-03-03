@@ -1,40 +1,37 @@
+<div align="center">
+	<h1>
+		chro64
+	</h1>
+	 <h3>
+		  Pronunciation <- (CROW - SIXTY-FOUR)
+	 </h3>
+</div>
 
-<center>
- 
+<br />
 
+<br />
 
-<h1>chro64
+### Website: https://chro64.com
 
-(CROW - 64)
-</h1>
+- 📙 I can speak, write and read English and Tamil
+- 🔭 I want to major in Data Analyst and Computer Science
+- 🏞️ I live in Tracy, CA
+- 🧑‍🤝‍🧑 Personality type: ENTP-T
 
-📙 I can speak English and Tamil
-<br>
-🔭 I mostly want to major as a Data Analyst or Computer Science
-<br>
-🌎 I live in Tracy, CA
-<br>
-🧑‍🤝‍🧑 Personality Type: ENTP-T
-
-
-
-
-[![Chro64's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrozix)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,python&theme=dark" />
-  </a>
-</p>
-<br>
-<br>
+# Programming Languages I know:
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,discord,git,github,pycharm,roblox,vercel,vscode,windows"
+			src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark"
 		/>
 	</a>
 </p>
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/chrozix/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/chrozix/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/chrozix/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-</center>
+# Things I use Everyday:
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img
+			src="https://skillicons.dev/icons?i=apple,discord,git,github,pycharm,vercel,vscode,windows"
+		/>
+	</a>
+</p>
