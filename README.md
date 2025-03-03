@@ -1,3 +1,4 @@
+<center>
 <div align="center">
 	<h1>
 		chro64
@@ -35,3 +36,11 @@
 		/>
 	</a>
 </p>
+<h2 align="center">
+	<div>
+		<img
+			src="https://komarev.com/ghpvc/?username=crllect&color=979797&style=for-the-badge&label=Profile+Views"
+			alt="Profile Views"
+		/>
+	</div>
+</h2>
