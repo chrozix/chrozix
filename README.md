@@ -14,7 +14,7 @@
 ### Website: https://chro64.com
 
 - 📙 I can speak, write and read English and Tamil
-- 🔭 I want to major in Data Analyst and Computer Science
+- 🔭 I want to major as a Data Analyst and Computer Science
 - 🏞️ I live in Tracy, CA
 - 🧑‍🤝‍🧑 Personality type: ENTP-T
 
