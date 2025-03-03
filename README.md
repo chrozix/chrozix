@@ -39,7 +39,7 @@
 <h2 align="center">
 	<div>
 		<img
-			src="https://komarev.com/ghpvc/?username=crllect&color=979797&style=for-the-badge&label=Profile+Views"
+			src="https://komarev.com/ghpvc/?username=chrozix&color=979797&style=for-the-badge&label=Profile+Views"
 			alt="Profile Views"
 		/>
 	</div>
