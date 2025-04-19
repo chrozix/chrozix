@@ -1,10 +1,10 @@
 <center>
 <div align="center">
 	<h1>
-		chro64
+		Hexaphix
 	</h1>
 	 <h3>
-		  Pronunciation <- (CROW - SIXTY-FOUR)
+		  Pronunciation <- (HEXA-PICS)
 	 </h3>
 </div>
 
